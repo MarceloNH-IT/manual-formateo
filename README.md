@@ -147,7 +147,6 @@ Resumen final:
 
 ## 📊 Estadísticas del Repositorio
 
-## 📊 Estadísticas del Repositorio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)  
 
