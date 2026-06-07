@@ -48,9 +48,6 @@ Una vez reinstalado Windows:
 En la carpeta `/assets` se incluyen capturas paso a paso para cada fase del proceso.  
 En `/docs` se pueden agregar guías más detalladas en PDF o Markdown.
 
-## 📜 Certificaciones relacionadas
-- Cisco CCNA / CCST  
-- Microsoft Azure Fundamentals (en estudio)  
 
 ## 📊 Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
